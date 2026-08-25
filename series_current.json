@@ -1,0 +1,48 @@
+{
+  "HX Series": [
+    "XP4850HX",
+    "XP5500HX",
+    "XP10000HX",
+    "XP12000HX",
+    "XP13000HX",
+    "XP13750HX",
+    "XP15000HX",
+    "XP15500HX",
+    "XP17500HX"
+  ],
+  "HXT Series": [
+    "XP13000HXT",
+    "XP13750HXT",
+    "XP15000HXT",
+    "XP17500HXT"
+  ],
+  "HX+ / HXT+": [
+    "XP15000HX+",
+    "XP15000HXT+"
+  ],
+  "iH Series": [
+    "XP2300iH",
+    "XP7000iH",
+    "XP9000iH",
+    "XP9500iH",
+    "XP11000iH",
+    "XP16000iH",
+    "XP28000iH"
+  ],
+  "iHT Series": [
+    "XP7000iHT",
+    "XP9500iHT",
+    "XP11000iHT",
+    "XP16000iHT",
+    "XP28000iHT"
+  ],
+  "EH Series": [
+    "XP13000EH"
+  ],
+  "MX Series": [
+    "DS13000MX"
+  ],
+  "MXT Series": [
+    "DS13000MXT"
+  ]
+}
